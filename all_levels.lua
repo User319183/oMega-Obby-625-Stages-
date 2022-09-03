@@ -993,6 +993,286 @@ wait(1)
 player.Character.Humanoid.Health = 0
 wait(1)
 --end of stage 130---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,100)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 131---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,90)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 132---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,140)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 133---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,80)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 134---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,80)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 135---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,20,100)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 136---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,105)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 137---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-80,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 138---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-80,20,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 139---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-83,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 140---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-70,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 141---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-50,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 142---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-80,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 143---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-100,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 144---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-90,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 145---
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-80,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 146--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-100,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 147--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-90,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 148--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(-80,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 149--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,40,-80)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 150--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,-80)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 151--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,-60)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 152--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,-90)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 153--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,-60)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 154--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,-100)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 155--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,-80)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 156--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(50,0,-60)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 157--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(100,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 158--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,-100)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 159--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,-100)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 160--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(100,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 161--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(110,60,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 162--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(110,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 163--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(110,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 164--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(100,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 165--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(100,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 166--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(60,0,0)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 167--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,80)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 168--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,80)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 169--
+player.Character.HumanoidRootPart.CFrame = player.Character.HumanoidRootPart.CFrame + Vector3.new(0,0,70)
+wait(1)
+player.Character.Humanoid.Jump = true
+wait(1)
+player.Character.Humanoid.Health = 0
+wait(1)
+--end of stage 170--
 
 
 
