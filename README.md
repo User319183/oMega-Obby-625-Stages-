@@ -7,4 +7,4 @@ As of right now, the script can push you all the way to level 130 in 10-20 minut
 
 I will be updating this script and will be adding the exploit for other levels.
 
-**This script has been tested only on SynapseX https://x.synapse.to/
+**This script has been tested only on SynapseX https://x.synapse.to/**
