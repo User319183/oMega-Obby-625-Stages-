@@ -6,3 +6,5 @@ This script will autofarm levels and get you badges in https://www.roblox.com/ga
 As of right now, the script can push you all the way to level 130 in 10-20 minutes.
 
 I will be updating this script and will be adding the exploit for other levels.
+
+**This script has been tested only on SynapseX https://x.synapse.to/
