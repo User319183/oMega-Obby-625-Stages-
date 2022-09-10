@@ -8,3 +8,9 @@ As of right now, the script can push you all the way to level 170 in 10-20 minut
 I will be updating this script and will be adding the exploit for other levels.
 
 **This script has been tested only on SynapseX https://x.synapse.to/**
+
+
+Known Issues: 
+1. Teleporation is sometimes off (and tp's you to the wrong place) but still works
+
+2. If you already gained levels, the autofarm will still farm thinking your level 1.
